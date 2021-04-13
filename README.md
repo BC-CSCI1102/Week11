@@ -15,5 +15,5 @@ Spring 2021
 
 ---
 
-See the slides in `slides/` and the code in `/src`.
+See the slides in `./slides/` and the code in `./src/`.
 
